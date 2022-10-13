@@ -11,7 +11,7 @@ How to read the argument comments:
   - The first word indicates the data type that is required for proper functionality.
   - The second word is the arg name. This is not neccessary for required arguments but is for optional ones.
   - After that are comments showing the default value and what it does where neccessary. 
-  - Comma indicawted a new argument
+  - Comma indicates a new argument
 
 Documentation:
 ```python
